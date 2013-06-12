@@ -1,2 +1,7 @@
 - code that create issue-1.
 - modify by issue 3
+
+
+
+
+- fixed bug #1.
