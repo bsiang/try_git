@@ -1,1 +1,6 @@
 - code that create issue-1.
+
+
+
+
+- fixed bug #1.
